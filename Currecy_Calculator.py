@@ -1,5 +1,5 @@
-#This program calculate a currecy actual currecy EURO, USD and PLN. It can be used to convert to all ways
-# form EURO TO PLN or PLN TO USD etc
+#This program calculate actual currency EUR, USD and PLN. It can be used to convert to all ways form EURO TO PLN or PLN TO USD etc.
+#It using a pubic API and REST API technology 
 import requests
 
 
